@@ -2,6 +2,8 @@
 
 Unveiling sales patterns through exploratory data analysis. Dive into customer behavior and market trends to drive strategic segmentation and enhance business strategies.
 
+<img src="https://1000logos.net/instacart-logo/"image">
+
 ## Purpose
 This project aims to uncover insights and trends within InstaCart's sales data through comprehensive analysis and dynamic visualizations. By exploring customer behavior and market trends, we seek to drive strategic segmentation and enhance business strategies for InstaCart.
 
